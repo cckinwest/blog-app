@@ -7,8 +7,8 @@ My first project to write a blog-app from scratch
 3. Other user can comment. (coming soon)
 4. Pics can also be uploaded and put in the blog. (coming soon)
 
-##BlogUI
+## BlogUI
 (coming soon)
 
-##Signing page
+## Signing page
 (coming soon)
